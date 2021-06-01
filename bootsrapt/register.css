@@ -1,0 +1,40 @@
+
+.bg {
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fotakukart.com%2Fddg-rapper-net-worth%2F&psig=AOvVaw1S1GU_vDI20c4Ekd6lr1Yg&ust=1622557153601000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCYicmO9PACFQAAAAAdAAAAABAP');
+    width:100%;
+    height: 100vh;
+    background-size: 100%;
+}
+
+.form-control{
+  width: 40vh;
+  text-align:center;
+}
+
+.label{
+  font-size: medium;
+}
+
+
+
+.needs-validation{
+  position: absolute;
+  top:10vh;
+  background: #001f3f;
+  padding: 20px;
+  border-radius: 25px;
+  color:#DDDDDD;
+  width: 50vh;
+  display: inline-block;
+}
+
+select {
+  padding: 2px;
+  width:100%;
+}
+
+@media only screen and (max-width: 678px){
+  bg {
+      background-size: 300%;
+  }
+  }
